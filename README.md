@@ -1,6 +1,3 @@
-# XMRSourDough
-XMR Sourdough: MIT-licensed RandomX miner and minimal Stratum client
-
 # XMR Sourdough: MIT-licensed RandomX miner and minimal Stratum client
 
 XMR Sourdough is an MIT-licensed Monero miner concept and codebase-in-progress. The aim is simple and practical: provide a clean, permissively licensed RandomX CPU miner plus a minimal Stratum client that applications can embed or ship alongside without inheriting GPL obligations. The project takes a conservative, engineering-first approach focused on clarity, consent, and maintainability.
